@@ -91,12 +91,12 @@
 			<scope>provided</scope>
 		</dependency>	
 	</dependencies>
-	<!--<distributionManagement>
-	    <repository>
+	<distributionManagement>
+	    <!--<repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://3.88.177.76:8081/repository/maven_tesla_release/</url>
-	    </repository> -->
+	    </repository>-->
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
