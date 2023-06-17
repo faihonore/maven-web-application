@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.83.107:8081/repository/Maven_Tesla_Rel/</url>
+	      <url>http://34.238.233.240:8081/repository/maven_kia_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.83.107:8081/repository/Maven_tesla_snap/</url>
+	      <url>http://34.238.233.240:8081/repository/maven_kia_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
